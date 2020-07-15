@@ -534,11 +534,6 @@ require './libs/config.php';
 if(!file_exists(\$cfg)) {header('location: ./install/');}else {require \$cfg;} 
 spl_autoload_register(function (\$class) {require LIBS . \$class .".php";});
 \$app = new Bootstrap();
-
-
-
-
-
 ?>
 EOF
 echo " done."
