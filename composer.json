@@ -1,5 +1,11 @@
 {
     "name": "tibaredha/package-exemple",
+    "authors": [
+        {
+            "name": "tibaredha",
+            "email": "tibaredha@yahoo.fr"
+        }
+    ],
     "description": "A short description of what your package does",
     "require": {
         "php": "^7.2"
