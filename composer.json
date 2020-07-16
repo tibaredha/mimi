@@ -6,6 +6,7 @@
             "email": "tibaredha@yahoo.fr"
         }
     ],
+    "license": "123",
     "description": "A short description of what your package does",
     "require": {
         "php": "^7.2"
